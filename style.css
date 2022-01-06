@@ -43,7 +43,7 @@ section{
 h1{
     font-size: 55px;
 }
-.color2020{
+#color2020{
     color: rgb(255, 173, 90);
 }
 .half-wid{
@@ -80,7 +80,7 @@ footer p{
     text-align: center;
     color: white;
 }
-#fcolor{
+.fcolor{
     color: white;
     text-align: center;
 }
