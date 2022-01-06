@@ -2,6 +2,7 @@ body{
     font-family: 'Inter', sans-serif;
     margin: 0%;
 }
+
 section{
     display: flex;
     margin-left: 10%;
@@ -34,14 +35,15 @@ section{
     border-radius: 20px;
     margin-bottom: 200px;
 }
-#textaling-center{
+.textaling-center{
     text-align: center;
+
     
 }
 h1{
     font-size: 55px;
 }
-#color2020{
+.color2020{
     color: rgb(255, 173, 90);
 }
 .half-wid{
@@ -61,4 +63,27 @@ h1{
 .buttonm{
     margin-bottom: 60px;
 
+}
+.text-center-color{
+    text-align: center;
+    color: rgb(255, 173, 90);
+}
+footer{
+    background-color: black;
+    height: 250px;
+}
+footer h1{
+    padding-top: 60px;
+    font-family: 'Sanchez',
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+#fcolor{
+    color: white;
+    text-align: center;
+}
+#colo2022{
+    color: red;
 }
