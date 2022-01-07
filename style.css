@@ -18,12 +18,12 @@ section{
     padding-left: 10px;
     border-radius: 5px;
 }
-.half-wid{
+.half-wid1{
     width: 50%;
 }
-.half-wid img{
+.half-wid1 img{
     width: 80%;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 #top-left{
     margin-top: 200px;
@@ -70,11 +70,12 @@ h1{
     width: 70%;
 }
 .button{
-    background-color: #262A35;
+    border: 2px solid;
     padding: 15px 25px;
     border-radius: 15px;
     text-decoration: none;
-    color: white;
+    color: black;
+
 }
 .buttonm{
     margin-bottom: 60px;
